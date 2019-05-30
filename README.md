@@ -1,5 +1,2 @@
 
-
-
-
-henlo, this is my website project
+My first attempt at a website of sorts.
